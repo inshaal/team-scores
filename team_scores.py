@@ -1,4 +1,4 @@
-#Program that asks continously for team name and score
+#Program that asks continuously for team name and score
 d={}
 f={}
 g={}
